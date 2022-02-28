@@ -1,0 +1,676 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highness Prince Rupert. With a narrative of the state and condition of the city and garrison of Bristoll, when his Highnesse Prince Rupert came thither: of the actions there during the siege, of the treaties, and rendition thereof.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92098</idno>
+            <idno type="STC">Wing R2294</idno>
+            <idno type="STC">Thomason E308_32</idno>
+            <idno type="STC">ESTC R200409</idno>
+            <idno type="EEBO-CITATION">99861174</idno>
+            <idno type="PROQUEST">99861174</idno>
+            <idno type="VID">113302</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113302)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 50:E308[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highness Prince Rupert. With a narrative of the state and condition of the city and garrison of Bristoll, when his Highnesse Prince Rupert came thither: of the actions there during the siege, of the treaties, and rendition thereof.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Griffin.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bristol (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:113302:1"/>
+            <pb n="1" facs="tcp:113302:1"/>
+            <div type="declaration">
+               <head>A DECLARATION Of His Highneſſe Prince RUPERT.</head>
+               <p>
+                  <seg rend="decorInit">N</seg>Ot that His Highneſſe thinks to juſtifie himſelfe to thoſe who by that muſt condemne themſelves: nor that he believes any thing he hath done needs a Declara<g ref="char:EOLhyphen"/>tion, does he publiſh this to the world: but hee thought it might not be unne<g ref="char:EOLhyphen"/>ceſſary to the ſervice of his Majeſty (in order to which all his actions have been directed) to let the world ſee that hee hath faithfully ſerved Him, and
+<pb n="2" facs="tcp:113302:2"/>that his enemies had no other reaſon for his accuſation, than that they found it neceſſary for their defence. His Highneſſe is not ignorant how great a difficulty he hath undertaken in ſatiſ<g ref="char:EOLhyphen"/>fying the people, who are as ſevere in the actions of others as they are par<g ref="char:EOLhyphen"/>tiall in their owne, and who cenſure all by ſucceſſe; which judgement, how unjuſt it is, the meaneſt underſtan<g ref="char:EOLhyphen"/>dings, even thoſe brought againſt him, muſt confeſſe. Yet with theſe diſad<g ref="char:EOLhyphen"/>vantages muſt he now appeare, and he is confident that through them all he ſhall let the miſ-informed Kingdome ſee that his honour is as much above the malice of his enemies as their com<g ref="char:EOLhyphen"/>petition. His Highneſſe will not goe backe to the beginning of theſe times, nor particularly mention his actions in this warre, although he believes he may without vanity ſay, that neither
+<pb n="3" facs="tcp:113302:2"/>integrity nor induſtry hath been wan<g ref="char:EOLhyphen"/>ting in any of them; nor that there hath ſcarce been any ſervice where he hath not appeared in his perſon and his care; which how ſuccesfull it hath been in ſeverall occaſions the King<g ref="char:EOLhyphen"/>dome will be his witneſſe, and where the event hath been contrary, His Ma<g ref="char:EOLhyphen"/>jeſty and the Armies will acquit him of his part in it. And he eſteemes it his happineſſe to have ſerved the King in difficult times, where he hath appea<g ref="char:EOLhyphen"/>red with him in good and ill-fortune, aſſiſted by the gallantry of thoſe Gen<g ref="char:EOLhyphen"/>tlemen who neither in danger nor diſ<g ref="char:EOLhyphen"/>favour have forſaken him, of whoſe affections he ſhall ever make a juſt and proportioned acknowledgement. But ſince (as it is the fate of thoſe in the condition of his Highneſſe) hee hath had his actions imperfectly, if not ma<g ref="char:EOLhyphen"/>liciouſly
+<pb n="4" facs="tcp:113302:3"/>related, examined at a di<g ref="char:EOLhyphen"/>ſtance, and accordingly cenſured: ſince he is become the ſubject of every ones paſſion, how unjuſt ſoever, and of every opinion, although never ſo weake; His Highneſſe thought it was a right hee owed the Kings ſervice and himſelfe (whom hee will ever conſider laſt) to publiſh in the following narrative the integrity and reaſons of his procee<g ref="char:EOLhyphen"/>dings, that it might appeare, that as his Highneſſe hath faithfully ſerved the King, he hath not ſerved him unadvi<g ref="char:EOLhyphen"/>ſedly, but like a ſouldier, as well as a man of honour. And all the world, even his enemies ſhall ſee, that his actions (to ſay no more) have been as farre from injuring His Majeſties cauſe, as theirs from defending it.</p>
+            </div>
+            <div type="narrative">
+               <pb n="5" facs="tcp:113302:3"/>
+               <head>A Narrative of the ſtate and conditi<g ref="char:EOLhyphen"/>on of the Citie and Garriſon of <hi>Bristol,</hi> when his Highneſſe Prince <hi>Rupert</hi> came thither; of the actions there during the Siege, of the Treaties and Rendition thereof.</head>
+               <p>HIS Majeſtie, after the Battell of <hi>Knasby,</hi> retreating towards <hi>Hereford,</hi> intending to recruit his Army by new-levyes in thoſe parts; His Highneſſe, Prince <hi>Rupert,</hi> croſt the <hi>Severne</hi>-Sea, to viſit his Highneſſe the Prince of <hi>Wales;</hi> and by his perſonall preſence, to informe him<g ref="char:EOLhyphen"/>ſelfe more fully of the condition of his Majeſties For<g ref="char:EOLhyphen"/>ces in the Weſterne parts. In his returne, hee paſſed through the Lord <hi>Goring</hi> his Army, thereby to ſettle and order things ſo there, as might moſt advantage his Majeſties future ſervice: and immediately after, his Highneſſe intending to provide for a traine of Artillery, and other neceſſaries for his Majeſties Army, repaired to <hi>Briſtol,</hi> where the then preſent conſtitution of the Garriſon had by the eſtabliſhment Contribution ſetled for 3600 men, for that and the ſubordinate Garriſons, as <hi>Nuney, Portſend Point,</hi> &amp;c. But at his comming thither, the preſidiary Souldiers (which went by reputation, for 800, or 900 men, and for ſome reaſons unknowne to his Highneſſe, it was not thought fit or convenient by them who tooke upon them the power to have them called to a Muſter) were really in the judgement of honeſt and judicious perſons, whoſe ſafeties were concerned in it,
+<pb n="6" facs="tcp:113302:4"/>betwixt 500, or 600 effective. The Auxiliary and trai<g ref="char:EOLhyphen"/>ned Bands, by interruption of Trade and Commerce, by the Peſtilence then raging there, by their poverty and preſſures layd upon them, were reduced to 800; and the Mariners, for want of imployment, betooke themſelves to other parts, or to the Enemy.</p>
+               <p>The Commiſſioners intruſted for the Contribution, and ſupport of the Garriſon, upon the Enemies ap<g ref="char:EOLhyphen"/>proach abandoned the Towne, and many conſiderable perſons had libertie given them, and quitted the Town, which much weakned and diſ-heartned the reſt.</p>
+               <p>For the ſecuring of that place, his Highneſſe drew in ſo many, that made the Garriſon 2300 men upon ſight: But after the Enemy approach't, his Highneſſe could never draw upon the line above 1500, and it was im<g ref="char:EOLhyphen"/>poſſible for his Highneſſe to keepe them from getting over the workes, and many of thoſe were new-levyed <hi>Welch,</hi> and unexperienced men.</p>
+               <p>The Line which was to be defended, was above foure miles in compaſſe, the breſt-worke low and thin, the graffe very narrow, and of no depth; and by the opini<g ref="char:EOLhyphen"/>on of all the Colonels (whoſe judgements and votes were required upon all important occaſions) not tenable upon a briske or vigorous aſſault.</p>
+               <p>The great Fort, which had the reputation of ſtrength, lay open to <hi>Brandon</hi>-hill Fort, which being taken, would from its height with the Cannon, command the whole plaine within it, and that wanting water was not to be kept many dayes. For the like conſideration of danger to the Line from another part, his Highnes built a redout without, which on that ſide prevented the enemy from erecting a battery, as likewiſe three other during the Siege, and drew a line of 500 foot.</p>
+               <pb n="7" facs="tcp:113302:4"/>
+               <p>After the miſ-fortune which hapned to the Lord <hi>Go<g ref="char:EOLhyphen"/>ring</hi> his Army, the loſſe of <hi>Bridge-water</hi> and <hi>Sherborne,</hi> and upon his Majeſties ſudden receſſe out of <hi>Wales,</hi> his Highneſſe not having received any command or intima<g ref="char:EOLhyphen"/>tion to follow him, he thought it might be more con<g ref="char:EOLhyphen"/>ducible to his Majeſties affaires for him to remain there; and conceiving that the Enemies deſigne after their for<g ref="char:EOLhyphen"/>mer ſucceſſes, might be for <hi>Briſtol,</hi> gave expreſſe or<g ref="char:EOLhyphen"/>ders, for all Inhabitants to victuall themſelves for ſix moneths: and upon a ſtrict ſurvay, there were 2500 fa<g ref="char:EOLhyphen"/>milies then remaining in the Citie, whereof 1500, through indigence and want, could not provide for themſelves. To ſupply this defect, his Highneſſe cauſed 2000 buſhels of Corne to be imported out of <hi>Wales.</hi> For further ſupply, his Highneſſe, upon the certaine ap<g ref="char:EOLhyphen"/>proach of the Enemies whole Army, commanded out parties to drive in all the Cattell thereabouts; of which there were an indifferent number.</p>
+               <p>The Ammunition was ſcant (conſidering that in the Forts, Caſtle, Line and Streets, there being above 100 Cannon mounted) the quantitie of powder exceeding not 130 barrells: and at his Highneſſe firſt comming thither, there was not in the publique magazine musket-balls for three houres fight, wherefore he cauſed immediate<g ref="char:EOLhyphen"/>ly great quantities of Lead to be caſt into Bullet; and the manufacture of match was quite downe, and ſet up by his Highneſſe during the Siege.</p>
+               <p>His Highneſſe having made all poſſible preparations, conſulted with all us, the Colonels of Poſts, for our opi<g ref="char:EOLhyphen"/>nion concerning the tenableneſſe of the Line: our judg<g ref="char:EOLhyphen"/>ment generall was, that notwithſtanding, the Workes and Line were very defective, the circuit large, our numbers few; yet if we could repell one generall ſtorm,
+<pb n="8" facs="tcp:113302:5"/>the enemy would be diſcouraged from attempting the ſecond time, and the ſeaſon of the year might advantage us, and incommodate them.</p>
+               <p>Upon this uncertainty his Highneſſe made offer, that for his own perſon he would attempt to break through with his Horſe, with ſuch Officers as could be ſpared, lea<g ref="char:EOLhyphen"/>ving ſuch as were requiſite for the Fort and Caſtle.</p>
+               <p>This by all us the Colonells of Poſts, and Officers was thought neither ſafe nor honourable. In the ſecond place he offered to put himſelfe upon the defence of the Caſtle and Fort, all the Officers were cleare of opinion againſt this, that in regard of the Nobility, and Gen<g ref="char:EOLhyphen"/>try and ſuch of the Town as had appeared well affect<g ref="char:EOLhyphen"/>ed, and the horſe and foot which the Fort and Caſtle could not receive, had thereby been left to the Sword of the Enemy, and in regard the Fort and Caſtle in our opinions were not tenable againſt their army.</p>
+               <p>In the third place ſeeing that neither of the former wayes could be taken, we were all reſolved to fall up<g ref="char:EOLhyphen"/>on the beſt generall defence that could be made of the whole, wherein we might all ſhare alike. Theſe were the reſolutions of all we Colonells and Officers of the Poſts, Caſtle and Fort, his Highneſſe leaving the free debate unto us, himſelfe not being by, upon our owne deſires.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>Theſe were the reſults at a councell of war, only I do not well remem<g ref="char:EOLhyphen"/>ber that the weakneſſe of the Caſtle and Fort was at that in<g ref="char:EOLhyphen"/>ſtant, while I was preſent, taken into conſideration.</p>
+                     <closer>
+                        <signed>
+                           <hi>Signed,</hi>
+                           <list>
+                              <item>
+                                 <hi>F. Hawley.</hi>
+                              </item>
+                              <item>
+                                 <hi>John Ruſſell.</hi>
+                              </item>
+                              <item>
+                                 <hi>Somerſet Fox.</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Murry.</hi>
+                              </item>
+                              <item>
+                                 <hi>Hen. Oſburne.</hi>
+                              </item>
+                              <item>
+                                 <hi>Hen. Tillier.</hi>
+                              </item>
+                              <item>
+                                 <hi>Mat. Appleyard.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="9" facs="tcp:113302:5"/>
+                     <head>The State and condition of the Line of fortifications about the City of Briſtoll, as likewiſe of the great Fort (as ap<g ref="char:EOLhyphen"/>peares by the ſubſcriptions of the Engineers, who had taken an exact ſurvay of them were as followes.</head>
+                     <p>THe Line generally was three foot thicke.</p>
+                     <p>The height of it five foot where it was higheſt.</p>
+                     <p>The graffe commonly ſix foot broad, and where it was wideſt but ſeven.</p>
+                     <p>The depth in moſt parts foure foot, and five where deepeſt.</p>
+                     <p>Between Pryor-hill-Fort, <hi>Stokes</hi> Croft-gate, and be<g ref="char:EOLhyphen"/>yond the little River towards <hi>Laffords</hi>-gate, in which places the Enemy entered, not five foot high.</p>
+                     <p>The graffe five foot broad, and all that part of the line much decayed.</p>
+                     <p>The ditch of the great Fort on the right hand the gate before the face of the Bulwork, was not foure foot deep, and eighteene foot broad, ſo that horſes did go up and down into it.</p>
+                     <p>The higheſt worke of the Fort was not twelve foot high, and the curtens but ten.</p>
+                     <p>Within one hundred foot of the Fort, there was a deepe hollow way, where the enemy might lodge what numbers hee pleaſed, and might be in the graffe the firſt night, and in that part the Fort was mi<g ref="char:EOLhyphen"/>nable.</p>
+                     <p>Brandon-hill Fort, was about twelve foot above the levell of the great Fort and that being not able to make any long reſiſtance, the Enemy gaining it, would com<g ref="char:EOLhyphen"/>mand the other.</p>
+                     <p>The Hedges and Ditches without the Line were nei<g ref="char:EOLhyphen"/>ther
+<pb n="10" facs="tcp:113302:6"/>cut, nor levelled, ſo that they lodged their men ſe<g ref="char:EOLhyphen"/>curely near our workes, at their firſt approach.</p>
+                     <closer>
+                        <signed>
+                           <hi>We doe here under our hands atteſt the parti<g ref="char:EOLhyphen"/>culars above written to be true.</hi>
+                           <list>
+                              <item>B. De Gomme <hi>Engineer Generall.</hi>
+                              </item>
+                              <item>John Mansfield <hi>Engineer.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>The reſolution being then taken for a generall de<g ref="char:EOLhyphen"/>fence, his Highneſſe diſpoſed all the Colonells to their ſeverall Poſts, and Forts upon the line. His Highneſſe being thus ſollicitous for the ſecuring of the place, the Enemy upon the 22 of <hi>Auguſt</hi> appeared before the Town, upon Pine-hill to the South ſide. To encounter them his Highneſſe ſent a party of horſe commanded by Sir <hi>Richard Crane</hi> (who in that action receaved his deaths wound) a little before that Bedminſter was fired, upon intelligence the Enemy intended that nigh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to quarter 2000 men in it, and notwithſtanding the fi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Enemy drew thither, and ply'd their ſmall ſhot all <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght.</p>
+               <p>
+                  <hi>Auguſt.</hi> 23. his Highneſſe cauſed a traverſe or blinde of earth to be made within the draw-bridge without Temple gate, and the ſame day a battery was raiſed in the Marſh for ſecuring the River, and ſcouring the fields beyond it. The Enemy began ſome breſtworkes, and a battery on the hill without Temple-gate, with a tra<g ref="char:EOLhyphen"/>verſe croſſe the way to hinder our ſallies.</p>
+               <p>In this time the enemy omitted no opportunity to ſol<g ref="char:EOLhyphen"/>licite the minds of the Inhabitants, Trayned-bands, and Auxiliaries, and to that purpoſe ſent ſecretly in theſe lines following, Signed and ſealed by Sir <hi>Tho. Fairfax,</hi> and <hi>Oliver Crumwell,</hi> as likewiſe further inſtructions to the Citizens of Briſtoll, for the delivery of Briſtoll to the Parliament.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>We doe hereby promiſe and engage our ſelves, that
+<pb n="11" facs="tcp:113302:6"/>all ſuch Citizens of Briſtoll, now Inhabiting within the ſaid City, which ſhall from henceforth forbeare to re<g ref="char:EOLhyphen"/>ſiſt the Army under our command, in the attempting to enter the ſaid City, and the Lines of defence, and Forts made about it, and ſhall appeare to do their beſt endeavour for the delivering in of the ſame into our hands, for the uſe of the Parliament ſhall (in caſe the ſaid City be delivered into our hands) be ſecured and protected by the authority of the Parliament, in the en<g ref="char:EOLhyphen"/>joyment of their Lives, Liberties and Eſtates, as free<g ref="char:EOLhyphen"/>ly as in former times, and as any other perſons under the obedience of the Parliament, notwithſtanding any paſt Acts of hoſtility, or any other thing by them done in the former delivering up of the ſaid City to the Enemy, or maintaining of it againſt the Parliament, or otherwiſe in aſſiſtance of the Enemy. For aſſurance, and in teſtimony whereof we have hereunto ſet our hands and ſeales, this 25 of <hi>Auguſt.</hi> 1645.</p>
+                     <closer>
+                        <signed>Subſcribed and ſealed by,
+<list>
+                              <item>
+                                 <hi>Thomas Fairfax.</hi>
+                              </item>
+                              <item>
+                                 <hi>Oliver Crumwell.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Further inſtructions to the Citizens of Briſtoll that ſhall endea<g ref="char:EOLhyphen"/>vour the delivering up of the City to the Parliaments forces.</head>
+                     <p n="1">1. THat if any doubtfull expreſſions, or defects be con<g ref="char:EOLhyphen"/>ceived to be in the notes ſent in under our hands, the ſaid Citizens ſhall have any other draught to the ſame purpoſe, ſigned and ſealed by us in as full and ample rearms, as themſelves ſhall deviſe and ſend forth to us.</p>
+                     <p n="2">2. That what liberty, freedom or immunity the ſaid Ci<g ref="char:EOLhyphen"/>tizens ſhall find needfull to promiſe to any common Soul<g ref="char:EOLhyphen"/>diers, or Officers of the Enemy within the Garriſon (not
+<pb n="13" facs="tcp:113302:7"/>exceeding the degree of Colonells) for the more ſure and ſpeedy delivering up of the ſaid City unto us, ſhall be fully made good by us.</p>
+                     <p n="3">3. That they fall to ſome ſpeedy reſolution, and at<g ref="char:EOLhyphen"/>tempt for the purpoſes aforeſaid, becauſe elſe we ſhall fall to ſome attempt by our owne Forces, and (if thereby through Gods bleſſing it be taken) we ſhall hardly be able to withhold the Souldiers from doing that violence and dammage to the City, which we earneſtly deſire and ſtudy to prevent.</p>
+                     <p n="4">4. For the particular way of their attempt we muſt ex<g ref="char:EOLhyphen"/>pect advertiſement from them, and cannot particularly direct them, but in generall we offer that it may be either by ſeizing the Prince, or poſſeſſing or delivering up ſome Fort, or Worke which wee may enter, or ſetting open ſome Port, or by a generall riſing to aſſault and oppoſe the Princes Forces, or otherwiſe as they ſhall finde any ſpeedy opportunity, and upon the perceiving of any ſuch riſing, or attempt of theirs within, we ſhall apply our Forces ac<g ref="char:EOLhyphen"/>cordingly to enter for their aſſiſtance, and if by any ſuch meanes of theirs we enter, we ſhall undertake to ſecure the City from loſſe or violence by our ſouldiers.</p>
+                     <p n="5">5. If they thinke themſelves by their own force able to maſter the Enemie, or by any deſigne to make themſelves maſters of the commanding Forts without our aſſiſtance, we ſhall not bring our Armie into the City, unleſſe they deſire it.</p>
+                  </body>
+               </floatingText>
+               <p>Upon the interception of which papers his Highneſſe cauſed ſeverall ſuſpected, and active perſons to be reſtrain<g ref="char:EOLhyphen"/>ed, which prevented the deſigne, and withall by his perſo<g ref="char:EOLhyphen"/>nall preſence ſecured the great Fort from ſurprizall.</p>
+               <p>In the meane time his Highneſſe to interrupt the Ene<g ref="char:EOLhyphen"/>mies working made ſeverall ſallies, all which ſucceeded according to deſigne.</p>
+               <pb n="13" facs="tcp:113302:7"/>
+               <p>
+                  <hi>Auguſt</hi> 26. Soone after a ſtorme being expected by the Enemies drawing great bodies of horſe and foote, his Highneſſe double manned the Line, but nothing fol<g ref="char:EOLhyphen"/>lowed.</p>
+               <p>
+                  <hi>Auguſt.</hi> 28. Five Parliament Ships entred Kingrode, and fore't Captaine <hi>Boone,</hi> who commanded the tenth Whelpe to run up the Severne for ſecuritie.</p>
+               <p>
+                  <hi>Auguſt</hi> 29. The Enemie was making a bridge over Avon to conjoine their quarters.</p>
+               <p>
+                  <hi>Sept.</hi> 3. His Highneſſe began a work, or cutting off within the Line by <hi>Laffords</hi>-gate.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Sir <hi>Thomas Fairfax</hi> his Summons.</head>
+                     <p>
+                        <hi>SIR,</hi> For the ſervice of the Parliament, I have brought this Army before the City of Briſtoll, and do ſummon you in their names to render it, with all the Forts belong<g ref="char:EOLhyphen"/>ing to the ſame into my hands to their uſe. Having uſed this plaine language, as the buſineſſe requires, I wiſh it may be as effectuall with you, as it is ſatisfactorie to my ſelfe, that I do a little expoſtulate with you about the ſurrender of the ſame, which I confeſſe is a way not common, and which I ſhould not have uſed, but in reſpect to ſuch a per<g ref="char:EOLhyphen"/>ſon, and to ſuch a place. I take into conſideration Your Royall Birth, and relation to the Crowne of <hi>England,</hi> Your honour, courage, and the vertue of Your Perſon, and the ſtrength of that place, which You may thinke Your Selfe bound, and able to maintaine.</p>
+                     <p>SIR, The Crowne of <hi>England</hi> is and will be where it ought to be, we fight to maintaine it there, but the King miſled by evill Counſellors, or through a ſeduced heart hath left His Parliament, and His people; (under God the beſt aſſurance of his Crown and Familie) the maintenance of this Schiſme is the ground of this unhappy War on your part, and what ſad effects it hath produced in the three
+<pb n="14" facs="tcp:113302:8"/>Kingdomes, is viſible to all men. To maintaine the rights of the Crowne of <hi>England</hi> joyntly (a principall part wher<g ref="char:EOLhyphen"/>of is that the King in ſupreame Acts concerning the whole State is not to be adviſed by men, of whom the Law takes no notice, but by His Parliament the great Councell of the Kingdome; in whom, (as much as man is capable of) he heares all his people as it wereat once, adviſing him, and in which multitude of Counſellors lies His ſafety, and His peoples intereſt; and to ſet him right in this, has been the conſtant, and faithfull endeavour of the Parlia<g ref="char:EOLhyphen"/>ment, and to bring thoſe wicked inſtruments to Juſtice that have miſled Him) is a principall ground of our fighting.</p>
+                     <p>SIR, If God makes this cleare to you as he has to us, I doubt not but hee will give you a heart to deliver this place, notwithſtanding all the other conſiderations of ho<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>, courage, fidelity, &amp;c. Becauſe their conſiſtency <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ſe in the preſent buſineſſe depends upon the right and wrongfulneſſe of this that has beene ſaid: and if upon ſuch conviction you ſhould ſurrender it, and ſave the loſſe of bloud, or hazard of ſpoyling ſuch a City, it would be an occaſion glorious in its ſelfe, and joyfull to us for the reſtoring of you to the indeer'd affection of the Parlia<g ref="char:EOLhyphen"/>ment, and people of <hi>England,</hi> the trueſt friends to Your Family, it hath in the World.</p>
+                     <p>But if this be hid from your eyes, and that through your wilfulneſſe, this ſo great, ſo famous, and ancient a City and ſo full of people be (by Your putting us to force the ſame) expoſed to ruine, and the extremity of War, which yet wee ſhall in that caſe as much as poſſible en<g ref="char:EOLhyphen"/>deavour to prevent) then I appeale to the righteous God to be Judge betweene You and us, and to require the wrong.</p>
+                     <pb n="15" facs="tcp:113302:8"/>
+                     <p>And let all <hi>England</hi> judge whether the burning of its Townes, ruining its Cities, and deſtroying its people be a good requitall from a perſon of your family, which hath had the prayers, teares, purſes, and blood of its Parlia<g ref="char:EOLhyphen"/>ment and people, and (if you looke on either as now di<g ref="char:EOLhyphen"/>vided) which hath ever had that ſame party both in Par<g ref="char:EOLhyphen"/>liaments, and amongſt the people moſt zealous for their aſſiſtance, and reſtitution, which you now oppoſe, and ſeeke to deſtroy, and whoſe conſtant griefe has been, that their deſires to ſerve your Family have been ever hindred or made fruitleſſe by that ſame party about his Majeſty, whoſe counſels you act, and whoſe intereſt you purſue in this unnaturall warre</p>
+                     <p>I expect your ſpeedy anſwer to the ſummons with the returne of the bearer this evening, and remaine</p>
+                     <closer>
+                        <date>
+                           <hi>Sept.</hi> 4. 1645.</date>
+                        <signed>Your Highneſſe humble ſervant, THO. FAIRFAX.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>His Highneſſe reply was onely to know whether hee would give leave for a meſſenger to goe to his Majeſty to know his pleaſure, which occaſioned Sir <hi>Thomas Fairfax</hi> to returne this anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>THe overture of ſending to the King to know his plea<g ref="char:EOLhyphen"/>ſure I cannot give way to, becauſe of delay; I confeſſe your anſwer doth intimate your intention not to ſurren<g ref="char:EOLhyphen"/>der without His Majeſties conſent; yet (becauſe it is but implicite) I ſhall ſend againe to know a more poſitive anſwer from your ſelfe, which I deſire may be ſuch, as may render me capable to approve my ſelfe</p>
+                     <closer>
+                        <date>
+                           <hi>Sept.</hi> 5. 1645.</date>
+                        <signed>Your Highneſſe humble ſervant, THO. FAIRFAX.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="16" facs="tcp:113302:9"/>
+               <p>Whereupon his Highneſſe ſent him theſe following Propoſitions; for during a Treaty wee might ſtrengthen our workes within, heare from the King, and had hee aſ<g ref="char:EOLhyphen"/>ſented unto our demands wee ſhould have required a con<g ref="char:EOLhyphen"/>firmation of them by the Parliament, which protraction of time would have been our advantage.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>At the Councell of Warre, preſent</head>
+                     <head type="sub">
+                        <hi>Prince</hi> Rupert, <hi>Lord</hi> Hawley, <hi>Lord</hi> Lumley, <hi>Col.</hi> John Ruſſell, <hi>Sir</hi> Matthew Appleyard, <hi>Colonell</hi> Tillier, <hi>Colonell</hi> Fox, <hi>Col.</hi> Robert Slingesby, <hi>Col.</hi> Walter Slingesby, <hi>Col.</hi> Murrey, <hi>Lieut. Colonell</hi> Osborne.</head>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>
+                        <hi>VVHereas I received your Letter for the delivery of the City, Forts, and Caſtle of</hi> Briſtol, <hi>and being wil<g ref="char:EOLhyphen"/>ling to joyne with you for the ſparing of blood, and pre<g ref="char:EOLhyphen"/>ſerving of His Majeſties ſubjects, I have upon thoſe grounds and none other, ſent you theſe following Pro<g ref="char:EOLhyphen"/>poſitions:</hi>
+                     </p>
+                     <p n="1">
+                        <hi>1.</hi> That my ſelfe, all Noblemen, Commanders, Officers, Gentle<g ref="char:EOLhyphen"/>mun, and Souldiers, of Horſe and Foot, that have ſerved either His Majeſty or Parliament in <hi>England,</hi> or elſewhere, as like<g ref="char:EOLhyphen"/>wiſe all perſons whatſoever, men or women, now reſident here in this City of <hi>Briſtol,</hi> Caſtle, and Forts thereof, ſhall have free libertie to march away out of the ſaid Citie, Caſtle, and Forts, with their Armes, flying Colours, Drummes beating, Trumpets ſounding, Piſtols cockt, Swords drawne, Matches lighted on both ends, Bullets in their mouthes, and as much Powder as they can carry about them, with all their Bagge, and Baggage, Horſes, Armes and other Furniture, ten pieces of
+<pb n="17" facs="tcp:113302:9"/>Cannon, fifty barrels of Powder, and Match and Bullet propor<g ref="char:EOLhyphen"/>tionable.</p>
+                     <p n="2">
+                        <hi>2.</hi> That neither my own Perſon, nor the perſon of any Noble<g ref="char:EOLhyphen"/>man, Commander, Officer, Gentleman, or Souldier, or any other of mine or their Retinues, be ſearched, moleſted, or troubled, upon what pretence ſoever, but left to their liberties, to depart or ſtay as it ſhall be moſt convenient for them.</p>
+                     <p n="3">
+                        <hi>3.</hi> That none of your Army whatſoever ſhall entice or per<g ref="char:EOLhyphen"/>ſwade any Officer or Souldier of mine from their Regiments or Colours, with any promiſe of preferment or rewards.</p>
+                     <p n="4">
+                        <hi>4.</hi> That all ſuch Officers and Souldiers that are hurt, and ſicke, and cannot now march out of this City, Caſtle, and Forts, ſhall have liberty to ſtay untill they be recovered, and then have ſafe conduct to goe whereſoever they pleaſe, either to any of His Majeſties Armies, or Garriſons, or their owne houſes, where they may live quiet, in the interim they being ſicke and hurt may be protected by you, and have civill uſage.</p>
+                     <p>That all priſoners taken on both ſides ſince the beginning of this ſiege be forthwith ſet at liberty.</p>
+                     <p n="6">
+                        <hi>6.</hi> That my ſelfe, and thoſe above-mentioned be not required to march further in a day, then what conveniently we may, and that a day or two of reſt may be allowed upon our march if we ſhall finde it requiſite; and that we be accommodated with free quarters during our march, and a ſufficient convoy to any of the Kings Armies or Garriſons which I ſhall name, to ſecure us in our quarter, and upon our march, from injuries and inci<g ref="char:EOLhyphen"/>vilities that ſhall any way be offered unto us; and likewiſe that there be one hundred and fifty carriage-horſes, and forty Waines with ſufficient Teames provided for carriages of all ſorts.</p>
+                     <p n="7">
+                        <hi>7.</hi> That no perſon here in theſe Articles mentioned ſhall be in their march, Rendezvouz, or Quarters ſtopt, ſearched, or plundered, upon any pretence whatſoever. That two Officers be
+<pb n="18" facs="tcp:113302:10"/>appointed by you, the one for accommodation of free quarters for Officers, Souldiers, and others, and the other for providing of horſes and carriages for our baggage and traine.</p>
+                     <p n="8">
+                        <hi>8.</hi> That all Noblemen, Gentlemen, Clergymen, Citizens, Reſiants, and any other perſon within the City, Suburbs, or liberties of the City of <hi>Briſtol,</hi> ſhall at any time when they pleaſe have free liberty to remove themſelves, their goods, and families, and to diſpoſe thereof at their pleaſures, according to the knowne and enacted Lawes of the Land, either to live at their owne houſes, or elſewhere, and to enjoy their houſes, lands, goods, and eſtates, without any moleſtation, and to have protections for that purpoſe; and this Article to extend to all whoſe eſtates are ſequeſtred, or not ſequeſtred, and that they may reſt quietly at their abodes, and travell freely, and ſafely upon their occaſions, and for their better removeall they may have Letters of ſafe conduct with horſes and carriages at rea<g ref="char:EOLhyphen"/>ſonable rates upon demand.</p>
+                     <p n="9">
+                        <hi>9.</hi> That all perſons above-mentioned may have liberty to goe beyond the ſeas at any time within three moneths, as their occaſions ſhall require.</p>
+                     <p>
+                        <hi>10.</hi> That the Lines, Forts, Caſtle, and all other Fortifications about or in the City, be forthwith ſleighted, and the City ſtated in the ſame condition it was before the beginning of this un<g ref="char:EOLhyphen"/>naturall war, and that the Parliament during this war place no garriſon in it.</p>
+                     <p>
+                        <hi>11.</hi> That no Churches be defaced, that the ſeverall members of the foundation of this Cathedrall ſhall quietly enjoy their houſes, and Revenues belonging to their places, and that the Miniſters like wiſe of this City may enjoy their Benefices with<g ref="char:EOLhyphen"/>out any trouble.</p>
+                     <p>
+                        <hi>12.</hi> That no Oathes be impoſed upon any perſon now in this City, Suburbs, and Liberties, other then ſuch as are required by the ancient and enacted Lawes of this Land.</p>
+                     <pb n="19" facs="tcp:113302:10"/>
+                     <p>
+                        <hi>13.</hi> That the Major, Sherriffes, Aldermen and Cittizens, within this Corporation of the City of <hi>Briſtoll,</hi> ſhall be free in their perſons and Eſtates, and enjoy all their Priviledges, Liberties, and Immunities, in as full and ample maner as for<g ref="char:EOLhyphen"/>merly at any time they did before the beginning of this Warre; And that they have freedome of trade both by land and Sea, paying ſuch cuſtomes and duties as formerly they have done to His Majeſty, and that no Mulct nor Fine be impoſed upon any perſon mentioned in this Article, or queſtioned for any Act or thing done before the day of our marching forth, upon any pre<g ref="char:EOLhyphen"/>tence whatſoever, And that noe Freequarters be put upon them without their owne conſents.</p>
+                     <p>
+                        <hi>14.</hi> That all other perſons whoſe dwellings are in this City, and now abſent, may have the full benefit of theſe Articles as if they were preſent.</p>
+                     <p>
+                        <hi>15.</hi> That all Noblemen, Gentlemen and others, who have Goods in this City, and now preſent or abſent, may have liberty at any time within three Moneths to diſpoſe of their Goods as they pleaſe.</p>
+                     <p>
+                        <hi>16.</hi> That there be no Plundering, or taking away of any mans perſon or any part of his Eſtate under what pretence ſoever, and that Juſtice, according to the knowne and enacted Lawes of the land, be adminiſtred to all perſons within this City, by the ci<g ref="char:EOLhyphen"/>vill Magiſtrates.</p>
+                     <p>
+                        <hi>17.</hi> And for the performance of all theſe Articles, J expect ſuch Hoſtages to be given as J ſhall accept of, and hereunto J deſire your ſpeedy anſwer.</p>
+                     <p>
+                        <hi>Sir by this you may evidently perceive my inclination to peace, and you may be aſſured that I ſhall deſire nothing but what ſhall be with relation to his Majeſties honour, and the ſaftie of the Kingdome, and what may become Sir</hi>
+                     </p>
+                     <closer>
+                        <date>Sept. <hi>7. 1645.</hi>
+                        </date>
+                        <signed>Your ſervant RUPERT.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="20" facs="tcp:113302:11"/>
+               <p>Vpon peruſall of which Sir <hi>Thomas Fairfax</hi> returns this anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Have peruſed your Propoſitions, wherin ſome things are doubtfully expreſſed, other things inconſiſtent to the du<g ref="char:EOLhyphen"/>ty I owe to them I ſerve, notwithſtanding to the end I may give aſſurance, that I earneſtly deſire to ſave effuſion of blood, and the ruine of a City, and people, that may be ſo ſerviceable to the Crowne and Kingdome; If your High<g ref="char:EOLhyphen"/>neſs pleaſe, that Commiſſioners may treat between us con<g ref="char:EOLhyphen"/>cerning the accommodating of things, I hope to make it evident to the world, that what ſhall reſpect the honour of a Souldier, due civilities to all men, the good and welfare of the people of that City, both in paſſing by what is paſt, and reſtoring them to the Priviledge of all other ſubjects, and to the immunities of their City, will readily be conde<g ref="char:EOLhyphen"/>ſcended unto by Me, as becomes a Gentleman and a Chri<g ref="char:EOLhyphen"/>ſtian. And to the end no time may be loſt, I have here in<g ref="char:EOLhyphen"/>cloſed ſent you the names of three Commiſſioners, who upon the returne of Hoſtages of equall condition unto me, ſhall attend your Hignner ſufficiently inſtructed to con<g ref="char:EOLhyphen"/>clude on my part; Provided the ſaid Treaty bee ended by nine of the clock this night, and to this I deſire your Anſwer within the ſpace of an houre, and remaine</p>
+                     <closer>
+                        <date>
+                           <hi>Septemb.</hi> 7. 1645.</date>
+                        <signed>Your Highneſſe humble Servant, <hi>Tho. Fairfax.</hi>
+                        </signed>
+                     </closer>
+                     <postscript>
+                        <p>The names of Commiſſioners, for whom if a Treaty be admitted, I deſire a ſafe Convoy by this Bearer.</p>
+                        <list>
+                           <item>Collonell <hi>Ireton,</hi> Commiſſary Generall of Horſe.</item>
+                           <item>Collonel <hi>Fleetwood.</hi>
+                           </item>
+                           <item>Collonel <hi>Pickering.</hi>
+                           </item>
+                        </list>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <pb n="21" facs="tcp:113302:11"/>
+               <p>His Highneſſe reply'd in theſe words.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Thought I had ſufficiently explained my ſelfe in my Propoſitions, and that there was nothing doubtfull, or could be inconſiſtent with the duty you owe to them you ſerve, but ſince it ſeemes otherwiſe to you, I deſire you would ſet downe your doubts and exceptions in writing, to which you ſhall have a ſpeedy anſwer from,</p>
+                     <closer>
+                        <date>
+                           <hi>Septemb.</hi> 7. 1645.</date>
+                        <signed>Your ſervant, RUPERT.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Which occaſioned this following Letter, and Propoſitions from Sir <hi>Thomas Fairfax.</hi>
+               </p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Perceive by your laſt, that you decline any Treaty by Commiſſioners, and for me to ſend you in writing my doubts, land exceptions to your Propoſitions, and expect your anſwers, were a way like to give occaſion to many new Meſſages, and delayes, to avoyd which, and to bring theſe overtures to a ſpeedy reſolution, I have here ſent you what I am willing to grant, beyond which, I may not goe, and what I demand, from which by Gods bleſſing I ſhall not recede; I have obſerved the order of your owne Propoſitions, and upon every one have granted what is honourable for your Highneſſe, or the ſafety and welfare of the City to have, and fit for me, in honour and faithfulneſs to them I ſerve, to give, and this I have ſet downe, as neere at I could in your owne words, ſo farre as I found them cleare, though with ſome repetitions of the ſame things. By all this I hope I have ſufficiently evidenced my tenderneſs of blood, and of this City, and have cleared my ſelfe before God, and the world, from what evill ſhall enſue upon your refuſall; If
+<pb n="22" facs="tcp:113302:12"/>you except the tearmes, having here ſent two Copies ſealed and ſigned by me, I ſhall expect that you returne one of them Signed and ſealed by your ſelfe, alſo to bee brought back to me this day by ſix of the clock in the evening at fur<g ref="char:EOLhyphen"/>theſt, otherwiſe I ſhall conclude your refuſall, and account my ſelfe abſolved, ſave from the deſire of being, Sir,</p>
+                     <closer>
+                        <date>
+                           <hi>Stapleton</hi> 8 <hi>Sept.</hi> 1645.</date>
+                        <signed>Your Highneſſe Humble ſervant, <hi>Tho, Fairfax.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Articles of agreement for the Surrender of the City of <hi>Briſtoll,</hi> with the Caſtle and Forts thereof, betweene his Highneſs Prince <hi>Rupert,</hi> and his Excellencie Sir <hi>Tho, Fairfax,</hi> made <hi>Sept.</hi> 8. 1645.</head>
+                     <p>THat his Highneſſe Prince <hi>Rupert,</hi> and all Noblemen, Comman<g ref="char:EOLhyphen"/>ders, Officers, Gentlemen and Souldiers, and all other perſons whatſoever now reſident in the City of <hi>Briſtoll,</hi> and the Caſtle and Ports thereof, ſhall have free liberty to march away out of the ſaid Ci<g ref="char:EOLhyphen"/>ty, Caſtle and Forts, with their Armes, flying Colours, Drums beat<g ref="char:EOLhyphen"/>ing, Trumpets ſounding, Piſtols cockt, ſwords drawnt, Matches lighted, Bullet in their mouthes, every Foot ſouldier his Bandiliers full of Powder, with Match proportionable, and every Horſeman his Flaske full of Powder, with all the Bag and baggage, Horſes and fur<g ref="char:EOLhyphen"/>uiture, foure peeces of Ordnance, twenty barrels of Powder, match and bullet proportionable.</p>
+                     <p n="2">
+                        <hi>2.</hi> That none of the Perſons aforementioned, or of their Retin, es ſhall be ſearched, moleſted or troubled upon what pretence ſoever.</p>
+                     <p n="3">
+                        <hi>3.</hi> That none of the Parliament Army whatſoever ſhall entice, or perſwade any Officer or Souldier belonging to Prince <hi>Rupert,</hi> from their Regiments or Colours with any promiſe of preferment or reward.</p>
+                     <p n="4">
+                        <hi>4.</hi> That all ſuch Officers and Souldiers that are hurt or ſicke, and cannot now march out of the City, Caſtle, and Forts, ſhall have liberty to ſtay untill they be recovered, and then have ſafe conduct to goe whereſoever they pleaſe, either to any of his Majeſties Armies, or
+<pb n="23" facs="tcp:113302:12"/>Garriſons or their owne houſes, where they may live quiet, and that in the interim they ſhall be protected by Sir <hi>Tho. Fairfax,</hi> and have civill uſage.</p>
+                     <p n="5">
+                        <hi>5.</hi> That all Priſoners taken on both ſides ſince the beginning of this Siege, be forthwith ſet at liberty.</p>
+                     <p n="6">
+                        <hi>6.</hi> That the Perſons above mentioned, that are to march away ſhall have a ſufficient Convoy to any of the Kings Armies or Garriſons which the Prince ſhall name, not exceeding fifty miles from <hi>Briſtoll,</hi> to ſecure them in their march from all injuries and incivilities that ſhall or may be offered to them, for which march they ſhall have eight dayes allowed from their marching out of <hi>Briſtoll,</hi> and free quarter by the way during the ſame ſpace, and ſhall have carriage horſes, and Waines with teames provided ſufficient for Carriages of all ſorts from quarter to quarter, they giving caution forthwith to returne the ſame imme<g ref="char:EOLhyphen"/>diately.</p>
+                     <p n="7">
+                        <hi>7.</hi> That none of the Perſons above mentioned ſhall be in their ſaid march, rendezvous or quarters, ſearched <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> plundered upon any pre<g ref="char:EOLhyphen"/>tence whatſoever; and that two Officers ſhall be appointed by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax,</hi> the one for accommodation of Quarters for them by the way the other for providing of horſes and carriages for the baggage and traine.</p>
+                     <p n="8">
+                        <hi>8.</hi> That all the Citizens of <hi>Briſtoll,</hi> reſiant within the City, Su<g ref="char:EOLhyphen"/>burbs, and Liberties thereof, and all Noblemen, Gentlemen, Clergy<g ref="char:EOLhyphen"/>men, and others reſiant within the ſame, that have not otherwiſe beene engaged in Armes, or hoſtility againſt the Parliament then in defence of the ſaid City, Caſtle, or Forts, ſhall freely enjoy the liberty of their perſons, and alſo of their houſes, lands, goods, and eſtates at their owne diſpoſall, according to the knowne and enacted Lawes of the Land (they continuing from henceforth either in the ſaid City, or elſewhere under the obedience and protection of the Parliament) and this Article to extend to thoſe of them whoſe eſtates are ſequeſtred, as well as thoſe that are not ſequeſtred and that they may quietly reſt at their abodes, or travell freely and ſafely upon their occaſions, and for their removal of their goods, ſhall have ſuch liberty, as is hereafter provided in the fif<g ref="char:EOLhyphen"/>teene Article.</p>
+                     <p n="9">
+                        <hi>9.</hi> That all or any of the perſons above-mentioned, who ſhall deſire to goe beyond the Seas upon their private occaſions, and ſhall give aſſu<g ref="char:EOLhyphen"/>rance
+<pb n="24" facs="tcp:113302:13"/>from henceforth not to beare Armes or act any thing againſt the Parliament, or to the prejudice of their Affaires, ſhall have liberty to paſſe to any place beyond the Seas any time within three moneths.</p>
+                     <p>
+                        <hi>10.</hi> That no Garriſon ſave the Citizens themſelves ſhall without their conſent be put into the City, except in the Caſtle and Forts, and what force ſhall be placed, therein ſhall be maintained at the charge of the State.</p>
+                     <p>
+                        <hi>11.</hi> That no Churches be defaced, that the ſeverall Members of the foundation of the Cathedrall in <hi>Briſtoll,</hi> ſhall quietly enjoy their houſes belonging to their places, and for the Revenues of them, as alſo the Miniſters of the City for their Benefices, they ſhall be in the ſame ſtate and condition with other Clergie men of their quality continuing in the protection and obedience of the Parliament.</p>
+                     <p>
+                        <hi>12.</hi> That no Oaths other then ſuch as are required by the enacted lawes of the Land ſhall be impoſed upon any perſon, that now is, and ſhall continue in the ſaid City, Suburbs, and Liberties, either by the Generall, or any other by his authority.</p>
+                     <p>
+                        <hi>13.</hi> That the Major, Sheriffs, Aldermen, and Citizens within the Corporation of the City of <hi>Briſtoll</hi> ſhall be free in their perſons and estates, and enjoy all their Priviledges, Liberties, and Immunities in as full and ample manner as formerly before the beginning of this Warre, and ſhall have freedome of trade by Land and Sea to all places, and with all perſons not in hoſtility againſt the Parliament, paying ſuch Duties and Customes to the Officers appointed by the Parliament, as formerly they have done to his Majestie, and that no Mulct or Fine be impoſed on any perſon mentioned in this Article, nor any of them queſtioned upon pretence of any act or thing done or committed before the date hereof, the Kings Forces marching forth as aforeſaid, and that no free quarters ſhall be put upon them without their own conſents.</p>
+                     <p>
+                        <hi>14.</hi> That all other perſons whoſe dwellings are in this City, and now abſent, ſhall have the full benefit of theſe Articles as if they were pre<g ref="char:EOLhyphen"/>ſent, provided that ſuch of them as are elſewhere in Armes againſt the Parliament, doe come in within one moneth after the date hereof.</p>
+                     <p>
+                        <hi>15.</hi> That all Noblemen. Gentlemen, and others who have goods in the ſaid City, and are now preſent or abſent, ſhall have liberty at any time within one moneth to diſpoſe of their ſaid goods as they pleaſe, ex<g ref="char:EOLhyphen"/>cept it be Armes or Ammunition.</p>
+                     <pb n="25" facs="tcp:113302:13"/>
+                     <p>
+                        <hi>16.</hi> That there ſhall be no plundering admitted under what pretence ſoever, nor any taking away of any mans perſon, or any part of his eſtate contrary to theſe Articles, and that Juſtice according to the knowne Lawes of this Land be adminiſtred to all perſons within this City by the civill Magiſtrates.</p>
+                     <p>
+                        <hi>17.</hi> That in conſideration hereof, the City of <hi>Briſtoll,</hi> with the Ca<g ref="char:EOLhyphen"/>ſtle, and all the Forts and Fortifications thereof, without any ſleighting or defacing thereof, and all the Ordnance, Armes, Ammunition, and other furniture and proviſions of warre therein, without diminution or imbezlement (excepting what is allowed to be carryed as before) ſhall be delivered up to Sir <hi>Tho. Fairfax</hi> on Tueſday morning next by nine of the clocke, at which time the Prince with all the perſons mentioned in the firſt Article that march out, then naming what Army or Gar<g ref="char:EOLhyphen"/>riſon of the Kings he will march unto.</p>
+                     <p>
+                        <hi>18.</hi> That none of them in their marching out, or before, ſhall plun<g ref="char:EOLhyphen"/>der, hurt, or ſpoile the towne, or any perſon in it, nor carry out any thing but what is properly their own (except before excepted.)</p>
+                     <p>
+                        <hi>19.</hi> That the Convoy, and two Officers to be ſent with the Prince (as before) in the ſixt and ſeventh Articles, ſhall not have any violence offered or done to them by any of the Kings forces during the ſaid eight dayes allowed for the Prince his March, and ſeven dayes more for their returne to the Army.</p>
+                     <p>
+                        <hi>20.</hi> That ſufficient Hoſtages ſhall be delivered immediately upon Signing hereof for performance of thoſe Articles on both parts,</p>
+                     <closer>
+                        <signed>
+                           <hi>Signed and Sealed.</hi> Tho. Fairfax.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Wherein his Highneſſe finding ſundry omiſſions of ſeverall clauſes, and ſome Propoſitions totally left out, returned him this Letter with the Poſtſcript.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>ALthough I conceive my former propoſitions ſo well grounded upon honour and juſtice, as that I cannot well recede from them, yet for preventing of effuſion of
+<pb n="26" facs="tcp:113302:14"/>blood, and for the welfare of this place with which I am intruſted, I am willing ſo far to aſſent unto you as to leave the Caſtle undemoliſhed, but for the other forts and lines, to have them abſolutely ſlighted, and for all the other ar<g ref="char:EOLhyphen"/>ricles to ſtand firme as I propoſed them, to which if you will aſſent, I will then ſend Commiſſioners unto you to regulate, and ſettle all things betweene us, which will oc<g ref="char:EOLhyphen"/>caſion me to reſt.</p>
+                     <closer>
+                        <date>
+                           <hi>Sept.</hi> 8. 1645.</date>
+                        <signed>
+                           <hi>Your ſervant</hi> Rupert.</signed>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <hi>SIR,</hi> I have returned you your propoſitions again, finding many alterations and omiſſions in them, very prejudiciall to thoſe whom I am obliged in honour, and am reſolved to protect.</p>
+                     </postscript>
+                  </body>
+               </floatingText>
+               <p>But Sir <hi>Thomas Fairfax</hi> being conſtant to his owne Pro<g ref="char:EOLhyphen"/>poſitions gave this anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>I Have offered what is faire for your honour, and the towneſmens immunity, and for what I demanded, I can accept no leſſe, except I ſhould grant all for nothing, and though for that point of the Towneſmen ſecurity, I ſhalbe moſt willing to ſupply any thing that might be thought wanting in my offers, yet to admit a new conſideration upon your propoſitions, would tend to and (I doubt) end in nothing elſe but further delay, for by all your letters, and the whole carriage in this buſineneſſe, I find the advantage of time wholly, or chiefly intended. As you have thus far had your end therein, I have not loſt mine, that is, to make my proceedings more cleare, and innocent before God and the world, and having done this, I can with a cleare confidence truſt God for a better iſſue in an other way; you have my reſolution, which if you accept not, I deſire no<g ref="char:EOLhyphen"/>thing
+<pb n="27" facs="tcp:113302:14"/>further but the returne of my trumpet by noone, and that he may not be detayned as formerly. I remaine Sir.</p>
+                     <closer>
+                        <date>
+                           <hi>Sept.</hi> 9. 1645.</date>
+                        <signed>Your highnes humble ſervant <hi>Tho: Fairfax.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Hereupon his Highnes and the Commanders, reſolving not to breake off nor conclude the <hi>Treaty</hi> untill that they might heare from the <hi>King,</hi> unleſſe forced thereunto, returned this Anſwer.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>His Highneſſe his Anſwer.</head>
+                     <opener>
+                        <salute>SIR,</salute>
+                     </opener>
+                     <p>HOw faire your offers are to my honour, I hope you will give me the liberty to judge, finding you wan<g ref="char:EOLhyphen"/>ting in your care of the Noblemen, Commanders, and Souldiers that are under my protection, of whom I am bound to have an equall care with my ſelfe, and am ſorry to find ſo ill a conſtruction made of my faire proceedings and intentions in this my intercourſe of Letters; ſince you interpret that a delay, which on my part was but a com<g ref="char:EOLhyphen"/>pliance to what you propounded, tending to the preventi<g ref="char:EOLhyphen"/>on of effuſion of blood, and to the good of the Kingdome, to which the ſleighting of the Caſtle, Forts and workes was the moſt conduceable meanes, ſince that can only ſettle this City in the condition of its former peace, and might have bin a leading preſident to the happineſſe of the whole Kingdome. Thus you may ſee the reallity of my ends, which ſince you tooke the liberty to queſtion, give me leave to tell you, that yours have not beene ſuch to me as you have profeſt before God and the world, by what I have ſeene under your hand and ſeale propoſed to others, never<g ref="char:EOLhyphen"/>theleſſe I ſhall never decline to embrace any overture that tends to the generall peace of this Nation, and in particu<g ref="char:EOLhyphen"/>lar of this City, and thoſe under my protection and com<g ref="char:EOLhyphen"/>mand, which is the only indeavour and ſtudy of Sir.</p>
+                     <closer>
+                        <date>
+                           <hi>Sept.</hi> 9. 1645.</date>
+                        <signed>Your ſervant <hi>Rupert.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="28" facs="tcp:113302:15"/>
+               <p>UPon the tenth of <hi>September</hi> the enemy ſtormed the line generally, about two in the morning, and his Highnes having received intelligence a little before of it, all were in a readineſſe to receive them, they entred the line where the Towneſmen and new-VVelch were, as at <hi>Stokes-croft</hi> gate, where the Officer in cheife who was Major of the Towne was ſlaine in the place, and at <hi>Laffords</hi> gate, where many of the Officers and Souldiers were taken and killed, and the ſame time they ſtormed <hi>Pryor</hi> Hill Fort, and tooke it, which was the loſſe of the whole line, they being beaten of in the other parts of the Town, then the day breaking we found them in full poſſeſſion of the line and fort, which cauſed our horſe and foote to retreate to the great ſort, who were preſently commanded into the City to make that good, leaving the other workes ſufficiently manned, as <hi>Golſons</hi> fort, <hi>Brandon</hi> hil, and the new Redoute with out the line; finding our ſelves in this condition, and conſidering the engagement of thoſe within the City and Caſtle, and that the Lord <hi>Hawley,</hi> Sir <hi>Matthew Appleyard,</hi> and Col<g ref="char:EOLhyphen"/>lonel <hi>Slingesby</hi> with their men were in danger to be cut off, the enemy being betweene us and them, his highnes was moved by the Officers to entertaine a treaty in time, before thoſe were loſt, his Highnes condeſcending thereunto, ſent a trumpet to Sir <hi>Thomas Fairfax</hi> to know whether he would treat or not, who accepting it, Commiſſioners were nominated on our part, Sir <hi>William Vavaſour,</hi> Sir <hi>John Mennes</hi> &amp; Collonel <hi>Henry Tillier,</hi> the firſt thing pro<g ref="char:EOLhyphen"/>poſed was a ceſſation of armes, and in the meane time e<g ref="char:EOLhyphen"/>very one to keepe his poſt. They firſt propoſed his High<g ref="char:EOLhyphen"/>nes former propoſitions, but our condition being then al<g ref="char:EOLhyphen"/>tred, and they ſenſible of their owne ſucceſſe, would not admit them, but would treat upon new propoſitions, which after long debate were as followeth.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <pb n="29" facs="tcp:113302:15"/>
+                     <head>Articles of agreement between the Commiſſioners appointed on the behalfe of his Highnes Prince <hi>Rupert,</hi> and his Excellency Sir <hi>Thomas is Fairfax,</hi> for the ſur<g ref="char:EOLhyphen"/>render of the City of <hi>Briſtoll. Sept.</hi> 10. 1645.</head>
+                     <p n="1">1. <hi>THat his Highnes Prince</hi> Rupert, <hi>and all Noblemen, Commanders, Officers, Gentlemen, and Souldiers, and all other perſons whatſoever now reſiding in the City of</hi> Briſtoll <hi>and the Caſtle and Forts thereof, ſhall march out of the ſaid City, Caſtle and Forts thereof, with Colours, Pikes, and Drums, Bag and Baggage; The Prince his Highnes, all Noblemen, Gentlemen, and Officers in Commiſſion, with their Horſes and Armes, and their ſervants with their Horſes and Swords, and Common Souldiers, with their Swords, the Prince his life<g ref="char:EOLhyphen"/>guard of Horſe, with their Horſes and Armes, and two hun<g ref="char:EOLhyphen"/>dred and fifty Horſe beſides to be diſpoſed of by the Prince, And his lifeguard of firelocks with their Arms, and each one of them one pound of powder, and a proportion of bullet, and that none of the perſons, who are to march out upon this article ſhalle plundered, ſearched, or moleſted.</hi>
+                     </p>
+                     <p n="2">2. <hi>That ſuch Officers and Souldiers as ſhalbe ſicke or woun<g ref="char:EOLhyphen"/>ded in the City, Caſtle, and Forts, ſhall have liberty to ſtay un<g ref="char:EOLhyphen"/>till their recovery, and then have ſafe conduct to goe to his Majeſty, and in the interim be protected.</hi>
+                     </p>
+                     <p n="3">3. <hi>That the perſons above mentioned who are to march a<g ref="char:EOLhyphen"/>way ſhall have a ſufficient convoy provided for them, for their ſecurity to any ſuch Garriſon of the Kings, as the Prince ſhall name, not exceeding fifty miles from</hi> Briſtoli, <hi>and ſhall have eight dayes allowed for their march thither, and ſhall have free quarter by the way, and ſhall have two Officers appointed to at<g ref="char:EOLhyphen"/>tend them for their accommodation, and twenty waggons for their baggage if they have occaſion to uſe the ſame.</hi>
+                     </p>
+                     <p n="4">4. <hi>That all the Citizens of</hi> Briſtoll, <hi>and all Noblemen, Gentlemen, Clergymen, and all other perſons reſiding in the
+<pb n="30" facs="tcp:113302:16"/>ſaid City and ſuburbs of the ſame, ſhalbe ſaved from all plun<g ref="char:EOLhyphen"/>der and violence, and be ſecured in their perſons and eſtates, from the violence of the Souldier, and ſhall enjoy thoſe rights and liberties which other ſubjects enjoy under the protection and obedience of the Parliament.</hi>
+                     </p>
+                     <p n="5">5. <hi>That in conſideration hereof, the City of</hi> Briſtoll <hi>with the Caſtle and all the Forts and fortifications thereof, without any ſlighting and defacing thereof, and all the Ordnance, Arms, Ammunition, and all other furniture and proviſions of War (excepting what is before allowed) ſhalbe delivered up to Sir</hi> Thomas Fairfax <hi>on thurſday the eleventh of this month, by three of the clocke in the afternoone, without any diminution or imbezlement, his Highnes Prince</hi> Rupert <hi>then naming to what Army or Garriſon of the Kings he will march too.</hi>
+                     </p>
+                     <p n="6">6. <hi>That none of the perſons who are to march out on this a<g ref="char:EOLhyphen"/>greement, ſhall plunder, hurt, or ſpoyle the towne, or any perſon in it, or carry out any thing but what is properly their owne.</hi>
+                     </p>
+                     <p n="7">7. <hi>That upon ſigning theſe articles Collonel</hi> Okey, <hi>and all perſons now in priſon in the City of</hi> Briſtoll, <hi>the Caſtle, or Forts of the ſame, ſhall immediately be ſet at liberty.</hi>
+                     </p>
+                     <p n="8">8. <hi>That ſufficient hoſtages, ſuch as he ſhall approve, be given to Sir</hi> Thomas Fairfax <hi>this night, who are to remaine with him untill the City be delivered unto him.</hi>
+                     </p>
+                     <p n="9">9. <hi>That neither the Convoy, nor Officers ſent with the Prince, ſhall recieve any injury in their going or comming bache, and ſhall have ſeaven dayes allowed for their returne.</hi>
+                     </p>
+                     <p n="10">10. <hi>That upon delivery of the town ſufficient hoſtages be gi<g ref="char:EOLhyphen"/>ven for performance of the articles on both parts.</hi>
+                     </p>
+                     <closer>
+                        <signed>Signed by us the Commiſſioners appointed on the be<g ref="char:EOLhyphen"/>halfe of his Highnes Prince.
+<list>
+                              <item>
+                                 <hi>Rupert,</hi>
+                              </item>
+                              <item>
+                                 <hi>William Vavafour,</hi>
+                              </item>
+                              <item>
+                                 <hi>John Mennes,</hi>
+                              </item>
+                              <item>
+                                 <hi>Henry Tillier.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                        <signed>Signed by us the Commiſſioners appointed on the be<g ref="char:EOLhyphen"/>halfe of his Excellency Sir <hi>Thomas Fairfax.</hi>
+                           <list>
+                              <item>
+                                 <hi>E. Mountague,</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho: Rainsborow,</hi>
+                              </item>
+                              <item>
+                                 <hi>I. Pickering.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <pb n="31" facs="tcp:113302:16"/>
+               <p>But in that particular point of laying downe our fire armes, there could be no concluſion made without his Highnes pleaſure firſt knowne, who thereupon called all the Commanders to deliver their opinions therein, and up<g ref="char:EOLhyphen"/>on full debate they concluded, as by their ſubſcriptions ap<g ref="char:EOLhyphen"/>peares, that if better conditions could not be obtained, then to accept of thoſe</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>It is our generall opinion that if better conditions cannot be gran<g ref="char:EOLhyphen"/>ted, we aſſent to the leaving of the fire armes, of the private Souldiers.</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>
+                                 <hi>Rupert,</hi>
+                              </item>
+                              <item>
+                                 <hi>Horatio Carey,</hi>
+                              </item>
+                              <item>
+                                 <hi>Io. Steward,</hi>
+                              </item>
+                              <item>
+                                 <hi>Ed. Manwaring,</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Leigh</hi>
+                              </item>
+                              <item>
+                                 <hi>Will. Powell,</hi>
+                              </item>
+                              <item>
+                                 <hi>Iohn Ruſſell</hi>
+                              </item>
+                              <item>
+                                 <hi>William Munday,</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Daniell,</hi>
+                              </item>
+                              <item>
+                                 <hi>Mor Touchet,</hi>
+                              </item>
+                              <item>
+                                 <hi>B. De Gomme,</hi>
+                              </item>
+                              <item>
+                                 <hi>Ed. Hutchinſon,</hi>
+                              </item>
+                              <item>
+                                 <hi>Theo. Kirton.</hi>
+                              </item>
+                              <item>
+                                 <hi>Wil. Prei<g ref="char:EOLhyphen"/>ty,</hi>
+                              </item>
+                              <item>
+                                 <hi>Tho. Coningsby,</hi>
+                              </item>
+                              <item>
+                                 <hi>Fra. Radcliffe,</hi>
+                              </item>
+                              <item>
+                                 <hi>H. Ventris,</hi>
+                              </item>
+                              <item>
+                                 <hi>W. Symonds.</hi>
+                              </item>
+                              <item>
+                                 <hi>Rich. Price.</hi>
+                              </item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>And thereupon there was a full concluſion of the Treaty. The next day upon ſome inſolencies of the Souldiers, his Highnes ſent to Sir <hi>Thomas Fairfax,</hi> that the Articles were violated, and that if there was not a preſent redreſſe, he would ſtand upon his owne defence, and rather dye then ſuffer thoſe injuries, and thereupon for his Highnes ſatis<g ref="char:EOLhyphen"/>faction we had liberty to march with our armes unto our quarters.</p>
+               <p>For ſome dayes before the approach of the Enemy, and during the whole ſiege, his Highnes received not any let<g ref="char:EOLhyphen"/>ter from his Majeſty, nor from the Prince of, <hi>Wales,</hi> nor from any generall, or miniſter of ſtate, untill his comming to <hi>Cyrenciſter,</hi> only the Governour of <hi>Hereford</hi> ſignified the riſing of the <hi>Scots,</hi> and their marching towards <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> and a deſire to have ſome ammunition from him. Notwithſtanding his Highnes made ſeverall diſpatches by all the convenient meanes he could.</p>
+               <p>The Well in the great fort was not halfe finiſhed, the water ſcant, and troubled, and farr inſufficient for the uſe of the numbers that were there.</p>
+               <pb n="32" facs="tcp:113302:17"/>
+               <p>It may be objected that notwithſtanding the enemies power and force, and their entring the line, yet the Caſtle and great Fort might have held out ſo long that probably reliefe might have come, and that therefore there was not any preſſing neceſſity to precipitate the rendition of thoſe places.</p>
+               <p>To which this is replyed, that any timely reliefe was utterly improbable, conſidering that during the whole ſiege, his Highnes neer received any intelligence from his Majeſty, nor from the VVeſt, and though his Highnes well knew in what condition his Majeſties Army was, yet if his Majeſty could have drawne together all the pow<g ref="char:EOLhyphen"/>er he expected, the enemy could have blockt up the Caſtle, and Fort, and have advanced twelve thouſand men to have fought a battell, or elſe have ſecured themſelves within the line againſt all oppoſition, beſides they were ſo abſolutely maſters of all the paſſes, &amp; had ſo barracado'd up the wayes, that a ſmall force might have hindred a great Army. And at that time Generall <hi>Poyntz</hi> ſo cloſely obſerved his Maje<g ref="char:EOLhyphen"/>ſties motions that releife was as improbable to be expected as eaſy to be deſired. And his Highnes could not promiſe himſelfe any more likelyhood of ſuccours from the VVeſt, <hi>Bridgewater, Sherborne,</hi> and other interjacent Garriſons, being already reduced by the Enemy, and Collonel <hi>Maſ<g ref="char:EOLhyphen"/>ſey</hi> lying with a conſiderable body of Horſe and Foote in places of advantage ready to intercept and ſtop the Lord <hi>Goring.</hi> Moreover had there been any probability of reliefe in any reaſonable time, yet the line being forc't <hi>Pryor</hi> hill Fort an important place loſt, the Officer to whoſe truſt it was committed, diſerting it (who never ſince that time appeared) the City had thereby beene ex<g ref="char:EOLhyphen"/>poſed to the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and fury of the enemy, ſo many gallant men who had ſo long and faithfully ſerved his Majeſty, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> his Highnes conceived himſelfe in honour,
+<pb n="33" facs="tcp:113302:17"/>obliged to preſerve as dearely as his owne) had beene left to the ſlaughter and rage of a prevailing enemy.</p>
+               <p>Nevertheleſſe, although theſe reaſons were of that validi<g ref="char:EOLhyphen"/>ty, that his Highnes could but deſpaire of reliefe, yet ano<g ref="char:EOLhyphen"/>ther important conſideration was in it ſelfe ſingly ſuffici<g ref="char:EOLhyphen"/>ent to exclude all credence of poſſibility, which was that the <hi>Scots,</hi> upon removall from <hi>Hereford,</hi> march't to <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> where their whole body was the eighth of <hi>September,</hi> an intermediate place, neare which his Majeſty muſt have march't, and can any rationall man imagine them ſo ſtu<g ref="char:EOLhyphen"/>pidly unactive, as to ſuffer his Majeſty to paſſe ſo neare them without oppoſition, conſidering what effective For<g ref="char:EOLhyphen"/>ces they had, and their Commanders neither ignorant or idle to entertaine oppertunities for action.</p>
+            </div>
+            <div type="royal_proclamation">
+               <opener>
+                  <signed>CHARLES R.</signed>
+               </opener>
+               <p>WHereas our right deare &amp; entirely beloved Nephew, P. <hi>Rupert</hi> did at a councel of war, held by us at <hi>Ne<g ref="char:EOLhyphen"/>wark</hi> the 18. of this inſta<g ref="char:cmbAbbrStroke">̄</g>t <hi>Octob.</hi> there being then preſent Our right truſty and welbeloved Coſin, and Counceller <hi>Mounta<g ref="char:EOLhyphen"/>gue</hi> E. of <hi>Lindſey,</hi> Lord great Chamberlain of <hi>England,</hi> Our right truſty, and right welbeloved Coſin, <hi>Richard</hi> Earle of <hi>Cork,</hi> Our right truſty &amp; welbeloved <hi>Jacob</hi> Lord <hi>Aſtley</hi> field Marſhall Generall of Our Army; <hi>John</hi> Lord <hi>Bellaſis,</hi> Cap<g ref="char:EOLhyphen"/>taine Generall of Our Horſe guards; and <hi>Charles</hi> Lord <hi>Ger<g ref="char:EOLhyphen"/>rard,</hi> Lievtenant-Generall of all Our Horſe forces; Our truſty and welbeloved Sir <hi>Richard Willis,</hi> Knight and Baro<g ref="char:EOLhyphen"/>net, Governour of <hi>Newarke,</hi> and <hi>John Aſhburnham</hi> Eſquire, Our Treaſurer at VVar, deſire to cleare himſelfe for the rendring of the City and Garriſon of <hi>Briſtoll</hi> with the Ca<g ref="char:EOLhyphen"/>ſtle and Forts thereof, and thereupon produced a Narrative of the matter of fact during the ſaid ſiege, with the Articles for the rendring of thoſe places, which being accordingly read and conſidered; VVe were then pleaſed to ſay, that VVe
+<pb n="34" facs="tcp:113302:18"/>did not believe Our ſaid Nephew to be guilty of any the leaſt want of courage or ſidelity to Us in the doing thereof, but withall We believed that he might have kept the Caſtle and Fort a longer time. We having abſolutely reſolved ſpeedily to have drawn together all the Forces we poſſibly could, and to have hazarded our own Perſon for his reliefe; Our deſigne being ſo laid as that in probability it would have ſucceeded, to which our ſaid right dear Nephew anſwered, that what e<g ref="char:EOLhyphen"/>ver he did therin, was by the advice of the Councel of war of that Garriſon, &amp; that he could not in his judgement poſſibly expect ſuch reliefe, beſides he alleaged that he had not recei<g ref="char:EOLhyphen"/>ved from Us any intimation thereof, but ſaid, that if he had, hee would have maintained thoſe places to the laſt man, though the tender regard he had to the preſervation of ſo many Officers and Souldiers, was the chiefe reaſon that in<g ref="char:EOLhyphen"/>duced him to capitulate for the whole, they having ſo long and faithfully ſerved Us, all which Our ſaid right Deare Nephew humbly ſubmitted to Our judgement. Who upon which at a ſecond hearing before Our Selfe this 21 day of <hi>October,</hi> the Lords and others above named being then like<g ref="char:EOLhyphen"/>wiſe preſent, and upon a ſerious conſideration of the whole matter, We were then pleaſed to declare that we were fully ſatisfied that our ſaid Right deare Nephew Prince <hi>Rupert,</hi> is not guilty of any the leaſt want of courage or fidelity to Us, or our ſervice in that action, and We then gave leave to the Lords and others above ſpecified, to declare their opinions in that point. Who upon Our leave, and a full conſiderati<g ref="char:EOLhyphen"/>on of the narrative formerly delivered, did unanimouſly concurre with Us, Declaring likewiſe that our ſaid Right Dear Nephew is not guilty of any the leaſt want of courage or fidelity to Us or Our Service in that action.</p>
+               <closer>
+                  <dateline>Given under Our ſigne Manuall at Our Court at <hi>Newark</hi> 
+                     <date>this 21 of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> 1645.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113302:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
